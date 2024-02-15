@@ -1,0 +1,16 @@
+Sistema de Delivery
+
+Atores: Clientes e Restaurantes
+
+Requisitos funcionais para o cliente:
+- Localizar restaurantes. 
+- Interface funcional.
+- Filtrar restaurantes por preço, região, tipos de alimento, taxa de entrega, etc.
+- Gestão de pagamentos.
+- Publicar e ler análises de restaurantes.
+Requisitos funcionais para restaurantes:
+- Anúncios do restaurante no próprio sistema.
+- Vias de contato entre o cliente e o restaurante.
+- Modificar ou atualizar cardápio e/ou preços com facilidade.
+- Aviso aos clientes via e-mail de promoções.
+- Ferramenta de análise de vendas.
